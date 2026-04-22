@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/index.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/contact.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/feedback.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/cart.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html?cat=clothes</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html?cat=shoes</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html?cat=watches</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html?cat=bags</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/shop.html?cat=accessories</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://shaistadeveloper.github.io/online-shopping-store/checkout.html</loc>
+  <lastmod>2026-04-22T17:40:36+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+
+
+</urlset>
